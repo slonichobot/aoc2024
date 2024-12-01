@@ -1,0 +1,5 @@
+cpp
+*[1-9].in
+**/main
+**/mainr
+
